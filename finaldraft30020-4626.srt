@@ -1,0 +1,185 @@
+1
+00:00:04,320 --> 00:00:07,280
+GNOME és un escriptori lliure pel vostre ordinador.
+
+2
+00:00:07,560 --> 00:00:12,340
+És un projecte gran que crea una experiència
+moderna i elegant d'escriptori.
+
+3
+00:00:12,500 --> 00:00:15,420
+Darrere del projecte hi ha una comunitat de col·laboradors,..
+
+4
+00:00:15,580 --> 00:00:19,080
+..que han treballat junts per portar-vos el GNOME 3.24.
+
+5
+00:00:19,660 --> 00:00:21,940
+Aquesta versió inclou molts canvis..
+
+6
+00:00:21,940 --> 00:00:25,640
+..per polir i enfortir les aplicacions i biblioteques del GNOME.
+
+7
+00:00:25,640 --> 00:00:29,680
+Durant l'any passat, ens hem focalitzat en el
+Centre de control del GNOME.
+
+8
+00:00:30,760 --> 00:00:32,260
+El quadre de comptes d'usuari,..
+
+9
+00:00:33,120 --> 00:00:34,520
+...el quadre comptes en línia
+
+10
+00:00:35,220 --> 00:00:38,180
+..i el quadre d'impressores s'han modernitzat.
+
+11
+00:00:40,080 --> 00:00:44,800
+El quadre de pantalla pot desplaçar automàticament
+la llum de la pantalla d'acord amb l'hora del dia.
+
+12
+00:00:45,420 --> 00:00:47,880
+Això us ajuda a no forçar la vista durant la nit.
+
+13
+00:00:49,700 --> 00:00:53,280
+Si teniu una tauleta de dibuix, ara podeu
+utilitzar-la amb Wayland.
+
+14
+00:00:53,840 --> 00:00:56,280
+El quadre de Wacom també inclou..
+
+15
+00:00:56,280 --> 00:00:59,240
+.. una petita àrea de dibuix que podeu usar per provar la vostra configuració.
+
+16
+00:01:01,120 --> 00:01:03,700
+La comunitat de GNOME valorà la vostra privadesa.
+
+17
+00:01:04,020 --> 00:01:05,860
+Per això, per defecte,..
+
+18
+00:01:05,860 --> 00:01:09,660
+..la nova versió del GNOME Web us protegeix de seguiments quan navegueu internet.
+
+19
+00:01:10,420 --> 00:01:13,560
+Web també inclou una nou diàleg contextual per
+adreces d'interès,..
+
+20
+00:01:13,560 --> 00:01:17,280
+..permetent-vos etiquetar i organitzar fàcilment els llocs web.
+
+21
+00:01:18,400 --> 00:01:22,060
+Moltes altres aplicacions s'han millorat
+durant aquest cicle incloent..
+
+22
+00:01:23,020 --> 00:01:27,120
+el Calendari, que ara té una visualització setmanal
+per ajudar a gestionar-vos l'agenda.
+
+23
+00:01:29,000 --> 00:01:33,540
+Polari, amb un nou diàleg contextual amb
+funcionalitat de notificacions.
+
+24
+00:01:36,760 --> 00:01:39,420
+i Receptes, una aplicació nova..,
+
+25
+00:01:39,540 --> 00:01:42,760
+..que conté receptes elaborades per membres de la comunitat GNOME.
+
+26
+00:01:47,700 --> 00:01:50,560
+Els desenvolupadors poden esperar un GNOME Builder
+millorat,..
+
+27
+00:01:50,560 --> 00:01:54,560
+..amb un sòlid suport per construir aplicacions contingudes amb Flatpak.
+
+28
+00:01:55,320 --> 00:01:57,760
+Builder també és compatible amb múltiples sistemes de muntatge,..
+
+29
+00:01:57,760 --> 00:02:01,280
+..com ara CMake, Autotools, Cargo i Meson.
+
+30
+00:02:03,080 --> 00:02:05,020
+Moltes d'aquestes funcionalitat han estat possibles,..
+
+31
+00:02:05,020 --> 00:02:07,060
+..gràcies als herois arreu del món,...
+
+32
+00:02:07,060 --> 00:02:10,280
+..els quals han pres la iniciativa d'organitzar esdeveniments
+per la comunitat GNOME.
+
+33
+00:02:11,040 --> 00:02:16,520
+Durant el treball en GNOME 3.24 aquests són
+alguns dels esdeveniments que van tenir lloc:
+
+34
+00:02:17,300 --> 00:02:19,420
+..The Libre Application Summit a Portland
+
+35
+00:02:20,240 --> 00:02:24,300
+..La iniciativa mensual GNOME Bug Squash amb 6 grups locals participant.
+
+36
+00:02:25,080 --> 00:02:27,120
+..la Core Apps Hackfest a Berlin.
+
+37
+00:02:28,440 --> 00:02:30,000
+..i molts altres grans esdeveniments.
+
+38
+00:02:32,360 --> 00:02:35,380
+GNOME no existiria sense la comunitat que li dóna suport.
+
+39
+00:02:35,540 --> 00:02:37,980
+Aquest projecte consisteix de molts equips de col·laboradors...
+
+40
+00:02:37,980 --> 00:02:41,220
+..que donen el seu temps perquè avanci aquest escriptori lliure.
+
+41
+00:02:41,920 --> 00:02:46,680
+Esteu interessats en ajudar en la comunitat, traducció,
+documentació o desenvolupament?
+
+42
+00:02:47,300 --> 00:02:50,040
+Tenim guies i gent amigable per ajudar-vos
+a fer el pas endavant.
+
+43
+00:02:50,500 --> 00:02:54,400
+Amb el vostre ajut, el programari lliure i GNOME
+poden continuar creixent.

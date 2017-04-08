@@ -1,0 +1,55 @@
+for the release video the whole point of taking this into 3D space, is to symbolize how GNOME is going BEYOND merely being a desktop. It is a way to experience, the GNOME project as an umbrella project, a universe of applications and content that you can become a part of. 
+
+
+SYNOPSIS:
+
+
+ * Revamped GNOME Settings:
+   Wacom tablet redesign ✓
+   Online accounts panel redesign (feborges)
+   Printers panel redesign (feborges)
+   User Accounts panel redesign (feborges)
+   Night Light (hughsie?)
+
+ * Adwaita theme new 200 icons
+
+  * Polari
+    User Popover ✓
+    Room List
+
+  * Recipes
+    Creating Recipes
+    Following Recipes
+    Sharing Recipes
+
+ * Software: updates view (hughsie?)
+    How to demo:
+    if you wait (or just downgrade) some fedora rpms
+    you can do:
+    pkcon update --only-download
+    and then g-s will see new updates
+    (without waiting)
+ 
+  * Calendar
+    Week View. (feaneron)
+ 
+  * Epiphany
+    Bookmarks ✓
+
+  * Photos
+    Improved editing with exposure/blacks tools
+
+
+== maybe ==
+
+  * Games
+    Firmware support, Famicom Disk System support
+  * Maps
+    transit routing although its only "in-preview"
+ 
+ https://wiki.gnome.org/ThreePointTwentythree/ReleaseNotes
+ 
+ 
+
+
+

@@ -1,0 +1,66 @@
+for next time
+
+take sfx into account from the start
+simon would like this so he doesnt get into a rabbit hole with that while we have a tight deadline.
+
+...try to start earlier, if anything then on all the assets like
+adwaita background animation etc. (btw, jimmac said he would try to have in mind animation of the background for next wallpaper)
+dont wait for these things as the last thing to do...
+
+this time we ended up in a pretty tight deadline, but it was good to have a time schedule.
+
+another thing that was tried this time was that I sent out the video for translations early even though the audio and video was not fully done.
+so we froze the timing because of translations.
+this made it very inconvenient for to do audio editing however.
+so next time, lets make sure we get the general intro and arrangement down before freezing subtitles.
+I think we have a more clear idea now when we can truly say "yes, its ok to freeze the voiceover now."
+TODO: file a bug against po2sub to support changing the times so we dont even need this freeze?
+
+Blenders opengl viewport renders was useful to get some early previews. i might want to
+1) file a bug requesting motion blur capability of the gl viewport render (fully cycles replacement, boom)
+2) file a bug to address the issue with epiphany texture creating a transparent box around itself (i guess gl's inability to render in layers)
+3) file a bug to address the issue of textures not having the correct "brightness" (they are dull grey, etc)
+4) file a bug to request animated textures to work properly in the opengl viewport (i couldnt get them to work for some reason..)
+
+i didnt get to try the animated render borders plugin very much. it seemed useful but it wasnt all that handy, since i did most "simple" animations directly in the VSE.
+on the other hand, commotions f-curve offset was super useful.
+I workedhttps://www.youtube.com/watch?v=_Z1PAXiyTB0&t=0s
+
+there were some severe issues with timing/syncing, [elaborate timecode idea to resolve this maybe]
+
+the manuscript was worked over two iterations, where in the second iterations it was much more well thought through (accompanied by storyboard pictures).
+however, to create a truly nice narrative, we might want to introduce some characters into this, and follow bjarkes slides, he has some practical tools on writing narratives (frameworks, "writing" / "editing", cause and effect etc).   Take inspiration from advertisements, documentaries, captivating nonfictional works.
+
+also, certain assets i could start working on before even getting the recordings from developers, might be worth looking into establishing some "general animations" based on the style guide. Especially study masks more, i think you can do some nice things with them if I explore them a bit more (especially animated masks). also, animation nodes + sequencer? get more familiar with animation nodes in general.
+
+one possible improvement to the idea of having the developers do their recordings way earlier. simply request the recordings as the devs are working on the features? would be much less "strain" if we can get our hands on video recordings earlier in the process. that opens up for animating the big sequences and getting these chunks of video in place in good time.
+
+
+Note for structure:
+    - we need to take into account that the animations also depend on the recordings, which depend on either *working builds* in Fedora Rawhide or that developers can send the recordings, which depend on the GNOME X.90 beta freeze (and sadly also culminates with GUADEC) 9th of August is freeze and release is Wednesday the 13th.
+    - but i think we can get animations in a decent state earlier by predefining some times the video recordings is going to run (fx Polari gets only 5 secs running time) on beforehand. and then render with viewport gl.
+    - Next cycle: https://wiki.gnome.org/ThreePointTwentyfive/
+
+Suggested sequence of tasks:
+    - Write script
+    - Record placeholder voiceover (doesn't have to be Karen/the final performer) <-- good idea!
+    - Edit video with voiceover and placeholder assets as required
+    - Start working on music and animation, this way music informs animation and vice versa
+
+        --> Revise script as required; maybe record pick ups for placeholder
+
+    - Lock down video flow, music tempo, time signatures as much as possible
+    - Lock down script
+    - Commission voiceover recording
+    - Add voiceover to video
+    - **Milestone:** Finish first draft of Animations, timings mostly locked
+    - Add sound effects
+    - Refine music
+    - Finish animations
+    - Refine edits
+    - Finish sound effects and music arrangement
+    - Export video and tweak timings; repeat until everything is locked
+    - Create audio mix (SFX, Music and voice) and master
+    - Export RC1
+    - Quality assurance
+    
